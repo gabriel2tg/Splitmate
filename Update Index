@@ -4,12 +4,14 @@
 <meta charset=""UTF-8">
 <meta http-equiv="X-UA-Compatible" content=""IE-edge">
 <meta name=""viewport" content=""width-device-width, initial-scale="1.0">
-<title>Splitmate</title>
+<title>HomePage Updated | Splitmate</title>
+<Link rel="stylesheet" href="">
 </head>
-<body>
+
+    <body>
     <h1>Home Page</h1>
 <p>Lorem ipsum dolor sit amet</p>
 <p>Lorem ipsum dolor sit ametconsecteteur adipisicing elit. sint, voluptas.</p>
-<button>Submit</button>
 </body>
+    
 </html>
